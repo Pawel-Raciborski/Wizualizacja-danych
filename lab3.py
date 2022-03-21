@@ -81,6 +81,7 @@ print(productCountAndPrize(Woda=2.50,
                            Sushi=14.99))
 
 # Zadanie 9
+
 a2 = ciag_geometryczny.nty_wyraz(1, 2, 4)
 print('Wartosc:', a2)
 s4 = ciag_geometryczny.suma_n_wyrazow(1, 2, 4)

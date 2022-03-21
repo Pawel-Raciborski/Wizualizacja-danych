@@ -87,6 +87,7 @@ class Robaczek:
         self.x = self.x + self.krok * ile_krokow
     def pokaz_gdzie_jestes(self):
         print("Wspolrzedne: (",self.x,',',self.y,")")
+
 robaczek = Robaczek(0,0,1)
 robaczek.idz_w_dol(3)
 robaczek.idz_w_lewo(5)
